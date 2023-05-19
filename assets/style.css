@@ -1,0 +1,41 @@
+header {
+    text-align: center;
+    color: magenta;
+}
+
+p {
+    text-align:center center;
+    color: darkgray;
+}
+
+h1 {
+    color: magenta;
+    position:relative;
+    border: solid;
+    border-radius: 5px;
+}
+
+h2 {
+    color: magenta;
+    border-radius: 5px;
+}
+
+h3 {
+    background-color: magenta;
+    background-blend-mode: normal;
+}
+
+main {
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flexbox {
+    width:31%;
+    margin: 2%;
+    border: dashed;
+    border-color: magenta;
+    text-decoration-color: magenta;
+}
